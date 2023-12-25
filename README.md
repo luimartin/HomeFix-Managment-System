@@ -1,4 +1,4 @@
-# HomeFix-Managment-System
+# HomeFix-Management-System
 
-This is a project for our Software Engineering 
+This is a project for our Software Engineering
 Still on progress
